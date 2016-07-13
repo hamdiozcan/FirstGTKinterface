@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=Arayuz Uygulamasi
+Name=Run
 Type=Application
-Exec='/home/afelaho/Desktop/GTK arayuz testi/glade1.py'
+Exec='/home/hamdi/Desktop/GTKtest/glade1.py'
 Terminal=false
 
 Name[en_US]=Run
