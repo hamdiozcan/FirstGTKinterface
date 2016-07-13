@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=Run
-Type=Application
-Exec='/home/hamdi/Desktop/GTKtest/glade1.py'
-Terminal=false
-
-Name[en_US]=Run
